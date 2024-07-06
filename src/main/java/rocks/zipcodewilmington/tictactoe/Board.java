@@ -35,22 +35,6 @@ Character [][] matrix;
     }
 
     public static void main(String[] args){
-
-//        System.out.println("Hello, World!");
-//        Board board = new Board();
-//        board.getRow1();
-//        board.getRow2();
-//        board.getRow3();
-//        board.getCol1();
-//        board.getCol2();
-//        board.getRow3();
-//        board.getCross1();
-//        board.getCross2();
-//        System.out.println(list);
-//        board.isTie();
-//        board.isInFavorOfO();
-
-
     }
 
     public Boolean isInFavorOfX() {
